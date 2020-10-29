@@ -6,7 +6,7 @@ function factorialize(num) {
     }
     return num;
   }
-
+//sadf
 
   function sumOfNnumbers(number){
       var returnvalue = 0;
